@@ -538,3 +538,6 @@ C:\Users\cuong\Downloads\DBMS_BCCK_S3_N1_24\QuanLyBanHangQuaMang\QuanLyBanHangQu
 C:\Users\cuong\Downloads\DBMS_BCCK_S3_N1_24\QuanLyBanHangQuaMang\QuanLyBanHangQuaMang\obj\Debug\QuanLyBanHangQuaMang.pdb
 C:\Users\cuong\Downloads\DBMS_BCCK_S3_N1_24\QuanLyBanHangQuaMang\QuanLyBanHangQuaMang\bin\Debug\QuanLyBanHangQuaMang.exe.config
 C:\Users\cuong\Downloads\DBMS_BCCK_S3_N1_24\QuanLyBanHangQuaMang\QuanLyBanHangQuaMang\bin\Debug\QuanLyBanHangQuaMang.pdb
+C:\Users\cuong\Downloads\Documents\QuanLyBanHangQuaMang\QuanLyBanHangQuaMang\bin\Debug\QuanLyBanHangQuaMang.exe.config
+C:\Users\cuong\Downloads\Documents\QuanLyBanHangQuaMang\QuanLyBanHangQuaMang\obj\Debug\QuanLyBanHangQuaMang.exe
+C:\Users\cuong\Downloads\Documents\QuanLyBanHangQuaMang\QuanLyBanHangQuaMang\obj\Debug\QuanLyBanHangQuaMang.pdb
