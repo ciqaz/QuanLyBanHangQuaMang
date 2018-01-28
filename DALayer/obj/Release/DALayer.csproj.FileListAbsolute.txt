@@ -1,0 +1,6 @@
+E:\DBMS\Code\QuanLyBanHangQuaMang\DALayer\bin\Release\DALayer.dll.config
+E:\DBMS\Code\QuanLyBanHangQuaMang\DALayer\bin\Release\DALayer.dll
+E:\DBMS\Code\QuanLyBanHangQuaMang\DALayer\bin\Release\DALayer.pdb
+E:\DBMS\Code\QuanLyBanHangQuaMang\DALayer\obj\Release\DALayer.dll
+E:\DBMS\Code\QuanLyBanHangQuaMang\DALayer\obj\Release\DALayer.pdb
+E:\DBMS\Code\QuanLyBanHangQuaMang\DALayer\obj\Release\DALayer.csprojResolveAssemblyReference.cache
